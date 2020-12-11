@@ -13,4 +13,4 @@ Información básica para ejecutar el programa:
 
 1. El programa necesita las siguientes librerías: BeautifulSoup, urlopen, requests.
 2. Ejecutar los siguientes comandos para instalar las librerias: bs4, urllib.request, io.
-3. El programa reqyuere
+3. El programa requiere descargar un archivo txt para su correcta ejecución.
