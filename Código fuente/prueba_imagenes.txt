@@ -1,0 +1,8 @@
+1008;Stewart, J.;2007;Cálculo diferencial e integral;México;International Thomson;4;Stewart, J. (2007). Cálculo diferencial e integral. México:International Thomson.;http://library.lol/main/E20BB369D73966FB3F690E141E04D19F
+1009;Walpole, R.;2012;Probabilidad y estadística para ingenieros;México;Pearson;2;Walpole, R. (2012). Probabilidad y estadística para ingenieros. México: Pearson.;http://library.lol/main/252FC2A3FD26CAB1131AE635B6D3A172
+2000;Jensen, C.;2004;Dibujo y diseño en ingeniería;México;McGraw-Hill Interamericana;4;Jensen, C. (2004). Dibujo y diseño en ingeniería. México: McGraw-Hill Interamericana.;http://library.lol/main/EB88A665BFCFFD04D9C80556530AA4CE
+2002;Hall y Stacey, T y J-P.;2009;Python 3 for Absolute Begginers;New York;Apress;5;Hall, T., & Stacey, J. (2009). Python 3 for absolute beginners. New York: Apress.;http://library.lol/main/B1F3ECA175474231AC9C2B13CF4E232C
+3002;Giancoli, D. C.;2006;FÍSICA:Principios con Aplicaciones. Sexta Edición;México;Person Education;42;Giancoli, D. C. (2006). FÍSICA. Principios con Aplicaciones. Sexta Edición. México: Person Education.;http://library.lol/main/36A5E5113090498246DE7E95F86E7AE5
+3005;Martí, A. G.; 2011;Mecánica: Cinemática y Dinámica;Cataluña;OPENLIBRA;34;Martí, A. G. (2011). Mecánica: Cinemática y Dinámica. Cataluña: OPENLIBRA.;http://library.lol/main/5FB9DDD6C5005C8DDB82FD518B3CCC42
+4004;Chang, R.;2010;Química Chang;México;McGRAW-HILL.;7;Chang, R. (2010). Química Chang. México: McGRAW-HILL.;http://library.lol/main/A1F0D27775C542C527AD735AE26EBB7F
+4002;Brown, T. L.;2014;Química la ciencia central;México;Pearson;7;Brown, T. L. (2014). Química la ciencia central. México: Pearson.;http://library.lol/main/553C89CA23226322C0D91416D8BD2B7D
